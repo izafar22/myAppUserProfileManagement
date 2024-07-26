@@ -9,8 +9,8 @@
 ### Installation
 1. Clone the repository:
    
-   git clone https://github.com/izafar22/myAppUserProfileManagement.git
-   cd myapp
+   git clone https://github.com/izafar22/myAppUserProfileManagement.git 
+   cd myapp 
    node app.js
 
    server is running on port=3000
