@@ -30,15 +30,15 @@
 
    User Profile Management                     
 
-	•	GET /users/profile - Get current user’s profile
-	•	PUT /users/profile - Update current user’s profile
-	•	DELETE /users/profile - Delete current user’s profile
+	•	GET /users/profile - Get current user’s profile     
+	•	PUT /users/profile - Update current user’s profile       
+	•	DELETE /users/profile - Delete current user’s profile      
 
    User Management (Admin)
 
-	•	GET /users - Get all users (with pagination)
-	•	GET /users/:id - Get a user by ID
-	•	DELETE /users/:id - Delete a user by ID
+	•	GET /users - Get all users (with pagination)        
+	•	GET /users/:id - Get a user by ID         
+	•	DELETE /users/:id - Delete a user by ID     
 
 
  
